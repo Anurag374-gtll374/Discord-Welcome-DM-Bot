@@ -13,7 +13,7 @@ async def on_ready():
     print(client.user.id)
     print('-----')
 
-newUserMessage = """your message
+newUserMessage = """Hello ! Dear welcome to ther our Elite Official server
 """
 
 @client.event
