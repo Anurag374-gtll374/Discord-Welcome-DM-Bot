@@ -21,4 +21,4 @@ newUserMessage = """your message
 async def on_member_join(member):
     await client.send_message(member, newUserMessage)
 
-client.run('your token') 
+client.run('NzA1MzMwODM1ODgwMTQ5MDAy.XqqIhw.PJwfit_0By2mPYQjcf6zy9cJiHQ') 
